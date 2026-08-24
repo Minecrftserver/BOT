@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "xossmp.play.hosting",
+  "serverPort": 59758,
   "botUsername": "MyBot",
   "botChunk": 1
 }
